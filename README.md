@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **hamzarabie25@gmail.com**
 
+- 📄 Know about my experiences at [https://drive.google.com/file/d/1Rft8gmtWcTryqm0xiFYaQy5tNssXv5bJ/view?usp=sharing](https://drive.google.com/file/d/1Rft8gmtWcTryqm0xiFYaQy5tNssXv5bJ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamzarabie25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzarabie25" height="30" width="40" /></a>
