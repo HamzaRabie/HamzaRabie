@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Asp.net Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HamzaRabie?tab=repositories](https://github.com/HamzaRabie?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HamzaRabie](https://github.com/HamzaRabie)
 
 - 📫 How to reach me **hamzarabie25@gmail.com**
 
